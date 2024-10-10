@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo1_Patinoire", "Exo1_Patinoire\Exo1_Patinoire.csproj", "{0ACF29C2-598D-43C1-850E-59D8E4FD9524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2_Piscine", "Exo2_Piscine\Exo2_Piscine.csproj", "{7E0AE3F2-7B35-45D9-BA0D-89E21C6B20D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACF29C2-598D-43C1-850E-59D8E4FD9524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACF29C2-598D-43C1-850E-59D8E4FD9524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACF29C2-598D-43C1-850E-59D8E4FD9524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACF29C2-598D-43C1-850E-59D8E4FD9524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0AE3F2-7B35-45D9-BA0D-89E21C6B20D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0AE3F2-7B35-45D9-BA0D-89E21C6B20D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0AE3F2-7B35-45D9-BA0D-89E21C6B20D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0AE3F2-7B35-45D9-BA0D-89E21C6B20D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06579F5F-D6AA-4527-9A76-60175E8D116D}
+	EndGlobalSection
+EndGlobal
